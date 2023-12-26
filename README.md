@@ -1,1 +1,1 @@
-# djangoRest
+# curso-django-projeto1
